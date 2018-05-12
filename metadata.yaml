@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/779
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39955#The-Dawn-of-Day
 gutenberg_issued: '2012-06-09'
 gutenberg_type: Text
 identifiers:
